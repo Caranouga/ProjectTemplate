@@ -13,7 +13,7 @@
   <h3 align="center">[repo-name]</h3>
 
   <p align="center">
-    [repo-description]
+    ...
     <br />
     <br />
     <a href="[demo-link]">View Demo</a>
