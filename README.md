@@ -6,9 +6,6 @@
 
 <br />
 <div align="center">
-    <a href="https://github.com/caranouga/ProjectTemplate">
-        <img src="images/logo.png" alt="Logo" width="200" height="200">
-    </a>
     <h3 align="center">ProjectTemplate</h3>
     <p align="center">
         A README template for all my projects
